@@ -21,4 +21,4 @@ The ATtiny85 can be programmed using the Arduino IDE using a USBasp USB programm
 
 ![](https://github.com/Mottramlabs/ATtiny85-WS2812-LED-Coaster/blob/main/Board%20Details/USBasp.jpg)
 
-With a new ATtiny85 chip it is necessary to "burn the boot-loader" first for the FastLED to work correctly.
+With a new ATtiny85 chip it is necessary to burn the "boot-loader" first for the FastLED to work correctly.
