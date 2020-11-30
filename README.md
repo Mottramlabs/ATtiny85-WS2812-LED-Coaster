@@ -3,7 +3,7 @@ Date: 30th November 2020
 
 ---
 
-A simple LED coaster using WS2812 addressable LED chips. Using the library FastLED see http://fastled.io/
+A simple LED coaster using WS2812 addressable LED chips. Using the library [FastLED](http://fastled.io/). 
 
 PCB's [Available from eBay](https://www.ebay.co.uk/sch/mlabs2018/m.html?_nkw=&_armrs=1&_ipg=&_from=)
 
