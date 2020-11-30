@@ -19,4 +19,4 @@ Pressing the push button, either SW1 or SW2 changes the mode, the options are.
 
 The ATtiny85 can be programmed using the Arduino IDE using a USBasp USB programmer available on eBay. Add ATTinyCore to your boards manager and upload using the programmer not the normal serial upload. 
 
-PCB Layout](https://github.com/Mottramlabs/ATtiny85-WS2812-LED-Coaster/blob/main/Board%20Details/PIX201109.jpg)
+![](https://github.com/Mottramlabs/ATtiny85-WS2812-LED-Coaster/blob/main/Board%20Details/USBasp.jpg)
