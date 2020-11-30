@@ -11,7 +11,7 @@
   The settings are held in EEPROM and read after reset
 
   Modes 0 - 5 are animations
-  Mode 6 cycles through the animations
+  Mode 6 - (single whiteLED) cycles through the above animations
   Mode 7 - Orange
   Mode 8 - Pink
   MOde 9 - Cyan
