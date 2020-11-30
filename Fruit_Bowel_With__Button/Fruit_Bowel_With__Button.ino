@@ -14,7 +14,7 @@
   Mode 6 - (single white LED) cycles through the above animations
   Mode 7 - Orange
   Mode 8 - Pink
-  MOde 9 - Cyan
+  Mode 9 - Cyan
 
   Board details
   Board:          "ATtiny25/45/85"
